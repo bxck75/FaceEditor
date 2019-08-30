@@ -2,7 +2,7 @@ import os, random, sys
 import numpy as np
 import cv2
 from dutil import *
-
+NUM_CHANNELS = 3
 NUM_IMAGES = 1769
 SAMPLES_PER_IMG = 10
 DOTS_PER_IMG = 60
